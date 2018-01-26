@@ -1,0 +1,6 @@
+pandas
+sklearn
+lightgbm
+xlrd
+boto3
+certifi
